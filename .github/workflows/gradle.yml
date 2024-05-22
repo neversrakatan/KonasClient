@@ -29,5 +29,5 @@ jobs:
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v3
         with:
-          name: 3arthh4ck
+          name: konas
           path: ./build/libs/*release.jar  
